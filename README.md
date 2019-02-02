@@ -2,16 +2,24 @@
 
 Green K - Html Template
 
-// Description
+# Description
+
 Green K is Responsive HTML IT Company portfolio template. It has included some of the functionality.
 We will add more functionality to this template. It Should give you 3-month free update.
 
-Feature
+
+#Feature
 
 Responsive
-Carousel Slider for image,
-Owl Slider for a testimonial,
+
+Carousel Slider for image
+
+Owl Slider for a testimonial
+
 Contact us form
+
 Services 
+
 Team Section
+
 Blog
